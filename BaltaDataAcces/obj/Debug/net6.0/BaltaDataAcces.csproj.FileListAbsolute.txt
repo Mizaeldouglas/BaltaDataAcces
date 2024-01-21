@@ -1,0 +1,11 @@
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/bin/Debug/net6.0/BaltaDataAcces
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/bin/Debug/net6.0/BaltaDataAcces.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/bin/Debug/net6.0/BaltaDataAcces.pdb
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.csproj.AssemblyReference.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.AssemblyInfoInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.AssemblyInfo.cs
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/refint/BaltaDataAcces.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/BaltaDataAcces/BaltaDataAcces/obj/Debug/net6.0/BaltaDataAcces.pdb
